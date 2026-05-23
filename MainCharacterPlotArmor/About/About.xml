@@ -11,10 +11,6 @@
     <li>1.3</li>
   </supportedVersions>
 
-  <loadAfter>
-    <li>brrainz.harmony</li>
-  </loadAfter>
-
   <description>
     This mod adds a "Main Character Plot Armor" trait that makes a pawn unlikely to die: nearly impervious to damage, disease, heat/cold, bad moods, mental/pain breaks, fire/toxins. They have absurdly large carrying capacity. And as all main characters are: they are beautiful. This mod is good for single-pawn colonies. Use the "Edb Prepare Carefully" mod or dev mode to add this trait to your pawns. The code is based on "Plot Armor" by Wrightc214 but with modifications and bug fixes.
   </description>

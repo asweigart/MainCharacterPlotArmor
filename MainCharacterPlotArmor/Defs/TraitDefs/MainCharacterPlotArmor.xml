@@ -3,7 +3,7 @@
   <TraitDef>
     <defName>AlSweigart_MainCharacterPlotArmor</defName>
     <label>main character plot armor</label>
-    <commonality>0.000001</commonality>
+    <commonality>0</commonality>
 
     <conflictingTraits>
       <li>Wimp</li>
@@ -13,29 +13,28 @@
     <degreeDatas>
       <li Class="TraitDegreeData">
         <degree>0</degree>
-        <label>Main Character Plot Armor</label>
+        <label>main character plot armor</label>
         <description>[PAWN_nameDef] is the story's protagonist and wears blatant plot armor.</description>
 
         <statOffsets>
-          <ArmorRating_Sharp>50</ArmorRating_Sharp>
-          <ArmorRating_Blunt>50</ArmorRating_Blunt>
-          <ArmorRating_Heat>50</ArmorRating_Heat>
+          <ArmorRating_Sharp>2</ArmorRating_Sharp>
+          <ArmorRating_Blunt>2</ArmorRating_Blunt>
+          <ArmorRating_Heat>2</ArmorRating_Heat>
           <PawnBeauty>2</PawnBeauty>
           <ComfyTemperatureMin>-20</ComfyTemperatureMin>
           <ComfyTemperatureMax>20</ComfyTemperatureMax>
-          <MeleeDodgeChance>10</MeleeDodgeChance>
+          <MeleeDodgeChance>0.95</MeleeDodgeChance>
           <ToxicResistance>0.5</ToxicResistance>
         </statOffsets>
 
         <statFactors>
           <RestRateMultiplier>1.5</RestRateMultiplier>
           <InjuryHealingFactor>10.0</InjuryHealingFactor>
-          <GlobalLearningFactor>5</GlobalLearningFactor>
+          <GlobalLearningFactor>4</GlobalLearningFactor>
           <IncomingDamageFactor>0.01</IncomingDamageFactor>
           <PainShockThreshold>5.0</PainShockThreshold>
           <ImmunityGainSpeed>3.0</ImmunityGainSpeed>
-          <MedicalTendQuality>5.0</MedicalTendQuality>
-          <MoveSpeed>1.75</MoveSpeed>
+          <MoveSpeed>1.5</MoveSpeed>
           <ResearchSpeed>4.0</ResearchSpeed>
           <MentalBreakThreshold>0.10</MentalBreakThreshold>
           <CarryingCapacity>10.0</CarryingCapacity>
@@ -44,7 +43,8 @@
           <ShootingAccuracyFactor_Short>10</ShootingAccuracyFactor_Short>
           <ShootingAccuracyFactor_Medium>10</ShootingAccuracyFactor_Medium>
           <ShootingAccuracyFactor_Long>10</ShootingAccuracyFactor_Long>
-          <MortarMissRadiusFactor>0</MortarMissRadiusFactor>
+          <MortarMissRadiusFactor>0.01</MortarMissRadiusFactor>
+          <Flammability>0.1</Flammability>
         </statFactors>
       </li>
     </degreeDatas>

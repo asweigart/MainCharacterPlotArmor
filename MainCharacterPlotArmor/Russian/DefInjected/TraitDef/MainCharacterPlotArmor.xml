@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <AlSweigart_MainCharacterPlotArmor.label>сюжетная броня героя</AlSweigart_MainCharacterPlotArmor.label>
-  <AlSweigart_MainCharacterPlotArmor.degreeDatas.0.label>Сюжетная броня героя</AlSweigart_MainCharacterPlotArmor.degreeDatas.0.label>
+  <AlSweigart_MainCharacterPlotArmor.degreeDatas.0.label>сюжетная броня героя</AlSweigart_MainCharacterPlotArmor.degreeDatas.0.label>
   <AlSweigart_MainCharacterPlotArmor.degreeDatas.0.description>[PAWN_nameDef] — главный герой истории и обладает явной сюжетной бронёй.</AlSweigart_MainCharacterPlotArmor.degreeDatas.0.description>
 </LanguageData>

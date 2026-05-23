@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <AlSweigart_MainCharacterPlotArmor.label>armadura de trama del protagonista</AlSweigart_MainCharacterPlotArmor.label>
-  <AlSweigart_MainCharacterPlotArmor.degreeDatas.0.label>Armadura de Trama del Protagonista</AlSweigart_MainCharacterPlotArmor.degreeDatas.0.label>
+  <AlSweigart_MainCharacterPlotArmor.degreeDatas.0.label>armadura de trama del protagonista</AlSweigart_MainCharacterPlotArmor.degreeDatas.0.label>
   <AlSweigart_MainCharacterPlotArmor.degreeDatas.0.description>[PAWN_nameDef] es el protagonista de la historia y lleva una armadura de trama descarada.</AlSweigart_MainCharacterPlotArmor.degreeDatas.0.description>
 </LanguageData>
